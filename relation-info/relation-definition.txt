@@ -1,0 +1,89 @@
+country	항목 주제의 국가
+publisher	항목 주제인 창작물의 제작자
+locatedInArea	항목 주제가 위치한 행정 구역
+occupation	항목 주제인 인물의 직업
+city	항목 주제가 위치한 행정 구역
+artist	항목 주제에 관련이 있는 음악가, 음악 그룹, 그 외의 연주자
+league	항목 주제인 팀이 출전한 리그
+party	항목 주제인 정치인 또는 당원이 소속되어 있는 당
+child	항목 주제의 자녀
+ground	항목 주제인 축구팀의 홈구장
+location	항목 주제가 위치한 지역
+genre	항목 주제인 작품의 장르(갈래) 또는 항목 주제인 팀이 추구하는 장르
+musicalArtist	항목 주제인 작품에 관련이 있는 음악가, 음악 그룹, 그 외의 연주자
+channel	항목 주제의 방송채널
+spouse	항목 주제인 인물의 배우자 (동거인의 개념은 아님)
+team	항목 주제가 현재나 과거에 활동했던 스포츠 팀
+battle	항목 주제인 인물이나 주제가 참여한 전투, 전쟁, 교전
+commander	항목 주제의 지휘관
+relative	항목 주제의 친척
+starring	항목 주제에 출연한 배우
+nationalTeam	항목 주제인 운동선수의 국가대표 팀
+industry	항목 주제인 회사 또는 단체가 속한 산업 분야
+parent	항목 주제의 부모
+leaderName	항목 주제의 지도자
+populationPlace	항목 주제인 인종 집단의 구성원들이 살고있는 곳
+region	항목 주제가 있거나 연결되어있는 지역
+language	항목 주제가 사용하는 언어
+award	항목 주제인 인물이나 단체, 작품이 받은 상
+knownFor	항목 주제가 알려진 일, 역사적인 사건 등. 사람, 조직, 집중력 캠프 등
+birthPlace	항목 주제가 태어난 장소
+predecessor	항목 주제의 전임자
+club	항목 주제인 운동선수의 소속 팀
+currentMember	항목 주제인 스포츠 팀의 현재 소속 선수
+tenant	항목 주제의 세입자나 임차인
+author	항목 주제인 글을 쓴 사람
+routeEnd	항목 주제인 경로가 끝나는 곳
+capital	항목 주제인 지방 정부나 중앙 정부가 위치한 도시/자치도시
+producer	항목 주제인 창작물의 제작자
+keyPerson	항목 주제인 조직 기관의 중요 인물
+director	항목 주제인 동영상, 영화, 비디오 게임 또는 그와 유사한 작품의 제작을 감독한 사람
+computingPlatform	항목 주제인 소프트웨어는 다음 플랫폼에서 실행할 수 있음
+nationality	항목 주제의 국적
+album	항목 주제의 음악 앨범
+product	항목 주제인 기관에서 만든 제품
+distributor	항목 주제의 배급 업자
+headquarter	항목 주제인 조직이나 단체의 본거지가 있거나 세워져 있는 구체적인 위치
+owningOrganisation	항목 주제의 소유 조직
+ideology	항목 주제인 기관의 정치적 이념
+manufacturer	항목 주제을(를) 제조/제작한 주요 회사
+place	항목 주제의 군사 분쟁의 장소
+developer	항목 주제을(를) 개발한 단체 또는 인물
+languageFamily	항목 주제의 공통 조상으로부터 진화 된 일련의 언어들
+opponent	항목 주제의 상대나 반대자
+recordLabel	항목 주제인 음악 레코딩과 뮤직비디오의 마케팅을 위한 브랜드나 상표
+foundedBy	항목 주제인 단체의 설립자
+routeStart	항목 주제인 경로가 시작되는 곳
+instrument	항목 주제인 인물이 연주할 수 있는 악기
+operator	항목 주제인 인공 구조물, 공공 운송 시스템, 강제 수용소 등을 운영하는 기관, 도시 등
+deathPlace	항목 주제가 죽은 장소
+managerClub	항목 주제인 운동선수가 관리, 감독하는 스포츠 팀
+owner	항목 주제을(를) 소유하고 있는 사람/단체
+residence	항목 주제을(를) 위해 마련된 거주 시설, 임기 동안 거주한 장소
+successor	항목 주제의 후임자
+parentCompany	항목 주제의 자회사
+notableWork	항목 주제가 작성한 주목할만한 작품 또는 주제  (예 : 작가, 아티스트, 엔지니어)
+officialLanguage	항목 주제의 공식 언어
+youthClub	항목 주제인 운동선수의 유소년 팀
+education	항목 주제인 인물이 교육받은 곳
+garrison	항목 주제인 군사 부대의 주둔지
+operatingSystem	항목 주제인 소프트웨어가 작동할 수 있는 운영체제
+creativeDirector	항목 주제인 텔레비전 쇼의 제작 감독
+writer	항목 주제인 작품을 쓴 인물
+vicePresident	항목 주제의 부통령 혹은 총리
+recordedIn	항목 주제인 음악 관련 작품의 녹음 장소
+religion	항목 주제인 사람, 단체 또는 종교적 건물과 연관된 종교
+influenced	항목 주제가 영향을 준 것
+largestCity	항목 주제인 장소에서의 가장 큰 도시
+previousWork	항목 주제인 작품의 이전 작품
+basedOn	항목 주제가 기반한 것, 원작, 기반이 된 것
+subsequentWork	항목 주제인 작품의 다음 작품
+pastMember	항목 주제의 이전 멤버
+field	항목 주제인 예술가의 분야
+influencedBy	항목 주제에 영향을 준 것
+colour	항목 주제가 가진 색깔
+restingPlace	항목 주제인 인물의 안식처, 무덤
+composer	항목 주제인 곡을 쓴 사람, 또는 작품에 들어가는 곡을 쓴 사람
+hubAirport	항목 주제인 항공사의 허브공항
+sourceMountain	항목 주제의 시작이 되는 산
+musicalBand	항목 주제인 싱글 음반의 음악 그룹
