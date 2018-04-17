@@ -9,3 +9,20 @@
 * gold-standard-v1: 사람이 태깅해서 만든 골드 스탠다드로, 한 데이터당 세 명의 어노테이터가 작업한 결과
 	* agreement_content.txt: 세 명의 어노테이터 모두 동일한 정답을 제출한 데이터들
 	* conflict2agreement_content.txt: 세 명의 어노테이터가 다른 정답을 제출하여 Majority Voting을 적용한 데이터들
+
+
+### gold-standard 파일 형식
+TSV format
+* HeadEntity (tab) TailEntity (tab) Relation (tab) Sentence (tab) ID (tab) Answer
+
+### silver-standard 파일 형식
+TSV format
+* HeadEntity (tab) TailEntity (tab) Relation (tab) Sentence (tab) Answer
+
+### 골드 및 실버 스탠다드 내 Sentence의 형태
+* Entity Tagging: 이중 대괄호로 문장 내 개체 표현
+* Head/Tail Entity 표현: 
+	* [[ _sbj_ ]] = HeadEntity
+	* [[ _obj_ ]] = TailEntity
+	* ex) 프린스턴_(뉴저지_주)	미국	country	아이리스 장은  [[ 제2차_세계대전 ]]  당시  [[ _obj_ ]] 으로 이민 온 교수 부모 사이에서  [[ 1968년 ]]  미국  [[ 뉴저지_주 ]]   [[ _sbj_ ]] 에서 태어났다.
+		* 예문 해석 : 아이리즈 장은 제2차_세계대전 당시 미국으로 이민 온 교수 부모 사이에서 1968년 미국 뉴저지_주 프린스턴_(뉴저지_주)에서 태어났다.
