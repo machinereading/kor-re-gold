@@ -26,3 +26,13 @@ TSV format
 	* [[ _obj_ ]] = TailEntity
 	* ex) 프린스턴_(뉴저지_주)	미국	country	아이리스 장은  [[ 제2차_세계대전 ]]  당시  [[ _obj_ ]] 으로 이민 온 교수 부모 사이에서  [[ 1968년 ]]  미국  [[ 뉴저지_주 ]]   [[ _sbj_ ]] 에서 태어났다.
 		* 예문 해석 : 아이리즈 장은 제2차_세계대전 당시 미국으로 이민 온 교수 부모 사이에서 1968년 미국 뉴저지_주 프린스턴_(뉴저지_주)에서 태어났다.
+
+### Licenses
+CC BY-NC-SA Attribution-NonCommercial-ShareAlike
+If you want to commercialize this resource, please contact to us
+
+### Contact
+nam.sangha at gmail.com
+
+### Acknowledgement
+This work was supported by Institute for Information & communications Technology Promotion(IITP) grant funded by the Korea government(MSIT) (2013-0-00109, WiseKB: Big data based self-evolving knowledge base and reasoning platform)
