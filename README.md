@@ -1,5 +1,8 @@
 # 한국어 관계(relation) 추출 골드 스탠다드
 
+## New Version
+Go to: https://github.com/machinereading/crowdsourcing
+
 ### 폴더 구조 설명
 * relation-info: 골드 스탠다드 데이터의 관계 정보
 	* relation-definition.txt: 골드 스탠다드 데이터의 관계들의 정의
